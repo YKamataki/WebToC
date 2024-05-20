@@ -12,7 +12,7 @@ WebToCは、ウェブページの見出しタグ（`<h1>`, `<h2>`, `<h3>`など�
 
 1. このリポジトリをクローンまたはダウンロードします。
     ```bash
-    git clone https://github.com/yourusername/web-page-outline-extractor.git
+    git clone https://github.com/YKamataki/WebToC.git
     ```
 2. Chromeで拡張機能のページ（`chrome://extensions/`）を開きます。
 3. 右上の「デベロッパーモード」をオンにします。
@@ -22,7 +22,7 @@ WebToCは、ウェブページの見出しタグ（`<h1>`, `<h2>`, `<h3>`など�
 
 1. このリポジトリをクローンまたはダウンロードします。
     ```bash
-    git clone https://github.com/yourusername/web-page-outline-extractor.git
+    git clone https://github.com/YKamataki/WebToC.git
     ```
 2. Firefoxで拡張機能のページ（`about:debugging#/runtime/this-firefox`）を開きます。
 3. 「一時的なアドオンを読み込む」をクリックし、`manifest.json`ファイルを選択します。
