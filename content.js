@@ -16,5 +16,5 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     const outline = createOutline();
     sendResponse({ outline });
   }
-  return true;  // 非同期でsendResponseを呼び出すことを示すためにtrueを返す
+  // sendResponseを同期的に呼び出しているため、trueを返す必要はない
 });
